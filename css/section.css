@@ -1,0 +1,15 @@
+section{
+    display: flex;
+    width: 700px;
+    height: 450px;
+    background-color: var(--White);
+}
+.perfum-img{
+    width: 18rem;
+}
+.tittle-card{
+    font-family: 'Fraunces', serif;
+}
+.text{
+
+}
